@@ -160,7 +160,7 @@
                         @endphp
 
                         <a-entity 
-                            rotation="{{ $annotation['#rotation']['#x'] }} {{ $annotation['#rotation']['#y'] }} {{ $annotation['#rotation']['#z'] }}"
+                            rotation="{{ $annotation['#rotation']['#x'] }} {{ $annotation['#rotation']['#y'] }} {{ $annotation['#rotation']['#z'] }}" 
                             position="{{ $annotation['#position']['#x'] }} {{ $annotation['#position']['#y'] }} {{ $annotation['#position']['#z'] }}">
                             <a-circle 
                                 class="hotspot hotspot-content-id-{{ $photosphere['hotspot-annotations']['#content-id'] }}" 
