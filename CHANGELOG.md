@@ -1,10 +1,7 @@
-## 1.3
-
-- allow precise positioning of info hotspots / annotations
-
 ## 1.2
 
 - user height and positional controllers height fix
+- print additional Chrome origin trial infos
 
 ## 1.1
 
